@@ -47,7 +47,7 @@ X
 
 P(y=1∣X)=sigmoid(z)=1/1+e^-z 
 
-​
+​This email classification is done by using logistic regression.
  
 ​
  
