@@ -1,6 +1,5 @@
-# email-classification-
-One major area in machine learning is supervised learning, where the goal is to predict an output given some inputs. The output value may be a numerical or categorical variable. We will discuss logistic regression: a supervised learning algorithm that can be used to classify data into categories, or classes, by predicting the probability that an observation falls into a particular class based on its features.
-
+# Email-Classification :
+One major area in machine learning is supervised learning, where the goal is to predict an output given some inputs. The output value may be a numerical or categorical variable. Well logistic regression is a supervised learning algorithm that can be used to classify data into categories, or classes, by predicting the probability that an observation falls into a particular class based on its features.
 Though it can be extended to more than two categories, logistic regression is often used for binary(0 or 1) classification, i.e. determining which of two groups a data point belongs to, or whether an event will occur or not. 
 
 The typical setup for logistic regression is as follows: there is an outcome 
